@@ -18,6 +18,8 @@ const SUBMISSION = [
 
 ]
 
+
+
 app.post('/signup', function(req, res) {
   // Add logic to decode body
   // body should have email and password
